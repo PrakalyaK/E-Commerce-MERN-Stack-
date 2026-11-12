@@ -1,0 +1,6 @@
+{
+  "name": "AURA LIVING - Artisanal Home & Living",
+  "description": "Full-stack e-commerce store built with React, Node.js, Express, and MongoDB document storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
